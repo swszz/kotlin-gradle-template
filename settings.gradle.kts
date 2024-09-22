@@ -1,1 +1,1 @@
-rootProject.name = "commons4k"
+rootProject.name = "kotlin-gradle-template"
